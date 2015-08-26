@@ -1,0 +1,52 @@
+/*selectores de etiquetas
+h1,h2{
+	color: red;
+}
+h3,h4{
+	color: blue;
+}
+
+
+.fondo1{
+	background: #CEF6F5;
+}
+#texto{
+	color: green;
+}*/
+.cabecera{
+	background: #996699;
+	font-size: 200%;
+	color: white;
+	height: 20px;
+	padding-top: 15px;
+	padding-left: 50px;
+
+}
+.pie{
+	background: #FFFFFF;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+	height: 10px;
+	padding-top: 20px;
+
+	
+	
+}
+.cuerpo{
+	text-align: center;
+	margin: 0 auto;
+	font-size: 180%;
+	color: blue;
+	height: 350px;
+	margin-top: 200px;
+	
+}
+.as{
+	color: gold;
+	font-size: 580%;
+}
+.asd{
+	 background: orange;
+
+}
